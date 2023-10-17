@@ -17,7 +17,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 Here are 3 quick and painless ways to contribute to this project:
 
 * This repository has some issues created in the issues section
-* Find an issue that is comfortable and request to be assigned to you. Issues are assigned on first come first serve basis
+* Find an issue that is comfortable to you and add a message in that stating your interest in that issue. Issues are assigned on first come first serve basis
 * Once the issue is assigned, you can work on that task and submit a pull request. Detailed process on how to open a pull request is available below.
 
 Choose one or more issues, make a pull request for your work and wait for it to be merged!
